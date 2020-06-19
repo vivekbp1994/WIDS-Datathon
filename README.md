@@ -4,11 +4,11 @@
   - **Kaggle score - .90150**
   - **Top Kaggle score - .9140**
   
-  ### Pipeline >
+  ### Pipeline Summary >
   - **Missing Values**
     - Random forest imputation was used to replace missing values
   - **Categorical Columns**
-    - Dummy variables were createdd
+    - Dummy variables were created
   - **Correlated features**  
     - Correlated features above 0.90 were removed
   - **Feature Transformations**
